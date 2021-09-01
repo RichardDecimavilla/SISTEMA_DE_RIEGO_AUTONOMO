@@ -1,0 +1,2 @@
+# SISTEMA_DE_RIEGO_AUTONOMO
+El sistema dispone de una fotocelda que detecta la intensidad luminosa y permite que el riego se realice solo al atardecer o en la noche solamente. Además, se puede programar la hora en que se realizará el riego. Para programar la hora el sistema dispone de un reloj, en el cual se indica hora y minutos en que el sistema se encenderá, activando una electroválvula que permitirá el flujo de agua a los aspersores.
